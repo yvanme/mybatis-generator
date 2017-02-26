@@ -1,2 +1,2 @@
-生成语句文件：
+锘跨敓鎴愯鍙ユ枃浠讹細
 java -jar mybatis-generator-core-1.3.5.jar -configfile generatorConfig.xml -overwrite
